@@ -21,7 +21,7 @@ This example shows how to use DevExpress [Grid Layout](https://docs.devexpress.c
 * [SalesInUSChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesInUSChart.razor)
 <!-- default file list end -->
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=blazor-gridlayout-create-adaptive-dashboard-layout&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=blazor-gridlayout-create-adaptive-dashboard-layout&~~~was_helpful=no)
 
