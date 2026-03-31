@@ -6,7 +6,7 @@
 ::deep .page-layout,
 ::deep .page-layout > .dxbl-gridlayout-root,
 ::deep .layout-item {
-    background-color: var(--bs-body-bg, var(--dxbl-body-bg, #fff));
+    background-color: var(--dxbl-body-bg, #fff);
 }
 
 ::deep .content {
